@@ -4,3 +4,5 @@
 - types
 - collection_types
 
+2) creiamo i model delle nostre tabelle e definiamo il tipo di relazione tra di esse
+
