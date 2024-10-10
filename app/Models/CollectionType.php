@@ -8,5 +8,6 @@ use Illuminate\Database\Eloquent\Model;
 class CollectionType extends Model
 {
     use HasFactory;
-    protected $table = 'collection_type';
+    //istruire il model sulla sua tabella 
+    protected $table = 'collection_types';
 }
